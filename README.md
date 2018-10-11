@@ -6,7 +6,7 @@
 
 ## [Prework](https://vetswhocode.io)
 
-Welcome to prework. Here you'll find the topics that will be covered during the interview process for admission into the cohort. We don't expect you to be experts, but we do expect you to be **familiar**. There is a lot of content to consume here, get used to the fire hose! 👨🏻‍🚒
+Welcome to prework. Here you'll find the topics that will be covered during the interview process for admission into the cohort. Completion is ***MANDATORY*** in order to gain an interview. While, we don't expect you to be experts, but we do expect you to be **familiar**. There is a lot of content to consume here, get used to the fire hose! 👨🏻‍🚒
 
 We know that everyone learns better using various methods and styles which is why we included both videos and read-throughs. Knowing the best way you pick-up and learn will be one of your greatest assets as a developer!
 
