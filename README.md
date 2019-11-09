@@ -1,7 +1,7 @@
 <h1 align="center"><img src="/img/vwc.gif" alt="Vets Who Code" width="100px" /> VETS WHO CODE</h1>
 
 [Web Presence](#web-presence)|[Know Your Tool](#command-line)|[HTML & CSS](#html)|[JavaScript](#javascript)|[Capstone](#capstone)
-
+---|---|---|---|---
 ---
 
 ## [Prework](https://vetswhocode.io)
