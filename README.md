@@ -1,6 +1,6 @@
 <h1 align="center"><img src="/img/vwc.gif" alt="Vets Who Code" width="100px" /> VETS WHO CODE</h1>
 
-<p aling="center">[Web Presence](#web-presence)|[Know Your Tool](#command-line)|[HTML & CSS](#html)|[JavaScript](#javascript)|[Capstone](#capstone)</p>
+[Web Presence](#web-presence)|[Know Your Tool](#command-line)|[HTML & CSS](#html)|[JavaScript](#javascript)|[Capstone](#capstone)
 
 ---
 
